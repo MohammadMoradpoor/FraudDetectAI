@@ -4,9 +4,9 @@ FraudDetectAI is a project aimed at developing an artificial intelligence-based 
 
 ## Features
 
-- **ODABOD.ipynb**: Jupyter Notebook containing the implementation of the ODABOD (Outlier Detection with Autoencoders using Bagging of Deep models) algorithm for fraud detection.
+- `ODABOD.ipynb`: Jupyter Notebook containing the implementation of the ODABOD (Outlier Detection with Autoencoders using Bagging of Deep models) algorithm for fraud detection.
 
-- **ODLOF.ipynb**: Jupyter Notebook containing the implementation of the ODLOF (Outlier Detection with Local Outlier Factors) algorithm for fraud detection.
+- `ODLOF.ipynb`: Jupyter Notebook containing the implementation of the ODLOF (Outlier Detection with Local Outlier Factors) algorithm for fraud detection.
 
 ## Getting Started
 
@@ -25,10 +25,6 @@ To get started with FraudDetectAI, follow these steps:
    ```
 
 3. Open the Jupyter Notebooks `ODABOD.ipynb` and `ODLOF.ipynb` to explore and run the fraud detection algorithms.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
